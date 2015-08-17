@@ -1,0 +1,5 @@
+﻿2-1-2015;Credit : SampleData : ₹xxx;Debit : SampleData : ₹xxx;
+7-1-2015;Credit : SampleData : ₹xxx;Debit : SampleData : ₹xxx;
+10-1-2015;Credit : SampleData : ₹xxx;Debit : SampleData : ₹xxx;
+15-1-2015;Credit : Home : ₹200;Debit : Cafeteria : ₹20;
+18-1-2015;Credit : SampleData : ₹xxx;Debit : B'day party : ₹500;Credit : SampleData : ₹xxx;Debit : SampleData : ₹xxx;Credit : SampleData : ₹xxx;Debit : SampleData : ₹xxx;

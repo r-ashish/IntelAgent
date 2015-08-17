@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="CodeFunDo.changePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:CodeFunDo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <ScrollViewer>
+        <Grid Background="#FF1F1F1F">
+            <PasswordBox 
+    		x:Name="getPassword"
+    		Header="Current Password" 
+    		Margin="22,108,50,0"/>
+            <TextBlock 
+    		HorizontalAlignment="Left" 
+    		Margin="22,48,0,0" 
+    		TextWrapping="Wrap"
+    		FontSize="30"
+    		Text="Change Password" 
+    		VerticalAlignment="Top" 
+    		Height="35" Width="273"/>
+            <Button x:ConnectionId='1' 
+            Content="Change" 
+            HorizontalAlignment="Left" 
+            Margin="22,557,0,30" 
+            VerticalAlignment="Bottom" 
+            Width="157"                     />
+            <PasswordBox 
+            	x:Name="newPaswrd"
+            	Header="New Password" 
+            	Margin="22,208,50,0"/>
+            <PasswordBox 
+            	x:Name="confirmPaswrd"
+            	Header="Confirm New Password" 
+            	Margin="22,308,50,0"/>
+
+        </Grid>
+    </ScrollViewer>
+</Page>
+

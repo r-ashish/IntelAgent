@@ -1,0 +1,3 @@
+﻿--Choose a currency--
+-1
+$

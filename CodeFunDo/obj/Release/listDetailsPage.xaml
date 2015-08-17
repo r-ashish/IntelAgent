@@ -1,0 +1,66 @@
+﻿<Page
+    x:Class="IntelAgent.listDetailsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:IntelAgent"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFF9F9F9">
+    <Grid x:Name="LayoutRoot" >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Background="#FF37B937" Grid.Row="0" Margin="0,0,0,0">
+            <TextBlock 
+                Foreground="#FFF9F9F9"
+                Text="Summary" 
+                HorizontalAlignment="Left"
+                Margin="26,23.5,0,26.5"
+                Style="{ThemeResource HeaderTextBlockStyle}" 
+                CharacterSpacing="{ThemeResource PivotHeaderItemCharacterSpacing}"/>
+        </StackPanel>
+        <ScrollViewer Grid.Row="1">
+            <Grid x:Name="myGrid">
+                <!--<TextBlock 
+                    VerticalAlignment="Top"
+                    Foreground="Black"
+                    FontWeight="Bold"
+                    Text="18-1-2015" 
+                    FontSize="25" Margin="20,20,0,274"/>
+                <Grid Background="Yellow" 
+                        VerticalAlignment="Top"
+                        Margin="60" 
+                        Height="100">
+                    <ScrollViewer>
+                        <TextBlock 
+                    		VerticalAlignment="Top"
+                    		Foreground="Black" 
+                    		Height="Auto"
+                    		TextWrapping="Wrap"
+                    		FontSize="20">
+                    		<Run Text="Yuvraj's b'day"/>
+                    		<LineBreak/>
+                    		<Run Text="Armaan's party"/>
+                    		<LineBreak/>
+                    		<Run Text="Ashish's b'day"/>
+                    		<LineBreak/>
+                    		<Run Text="Again"/>
+                    		<LineBreak/>
+                    		<Run Text="Again"/>
+                    		<LineBreak/>
+                    		<Run Text="Again"/>
+                    		<LineBreak/>
+                    		<Run Text="Again"/>
+                    		<LineBreak/>
+                    		<Run Text="Again"/>
+                        </TextBlock>
+                </ScrollViewer>
+                </Grid>-->
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+</Page>
+

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\WinRTXamlToolkit.dll</file>
+  <file>\WinRTXamlToolkit.Controls.DataVisualization.dll</file>
+  <file>\Microsoft.Live.dll</file>
+  <file>\IntelAgent.exe</file>
+</Files>

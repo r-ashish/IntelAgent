@@ -1,0 +1,8 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\ashish\desktop\ms-vs\vs\codefundo\codefundo\obj\debug\intermediatexaml\codefundo.exe" HashGuid="a9f77257-fcce-9ebb-4703-b8aa5c2f340e" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\live\v5.6\windows store app xaml\references\commonconfiguration\neutral\microsoft.live.dll" HashGuid="129ce77c-af09-9d5d-b95e-bf89af6739c7" />
+    <ReferenceAssembly PathName="c:\users\ashish\desktop\ms-vs\vs\codefundo\packages\winrtxamltoolkit.controls.datavisualization.windowsphone.1.7.9.0\lib\wpa\winrtxamltoolkit.controls.datavisualization.dll" HashGuid="c9e017dc-b2c6-3f11-43d3-48d57f9fac4b" />
+    <ReferenceAssembly PathName="c:\users\ashish\desktop\ms-vs\vs\codefundo\packages\winrtxamltoolkit.windowsphone.1.7.9.0\lib\wpa\winrtxamltoolkit.dll" HashGuid="ee328e69-b200-3aed-d5c2-1429deafbe53" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

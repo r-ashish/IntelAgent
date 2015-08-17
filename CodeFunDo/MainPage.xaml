@@ -1,0 +1,129 @@
+﻿<Page
+    x:Name="mainPg"
+    x:Class="IntelAgent.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:IntelAgent"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFF9F9F9">
+
+    <Page.BottomAppBar>
+        <CommandBar x:Name="cB" Background="#FF37B937">
+            <AppBarButton 
+                x:Name="sync_bttn"
+                Click="sync_click"
+                Icon="Sync" 
+                Label="Sync data"/>
+            <AppBarButton Label="Statistics" 
+                          Click="AppBarButton_Click_1">
+                <AppBarButton.Icon>
+                    <BitmapIcon UriSource="Assets/3.png"/>
+                </AppBarButton.Icon>
+            </AppBarButton>
+            <AppBarButton 
+                Icon="Bullets" 
+                Label="View details"
+                Click="AppBarButton_Click_3"/>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="Settings" Click="AppBarButton_Click"/>
+                <AppBarButton Label="About" Click="AppBarButton_Click_4"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <ScrollViewer>
+        <Grid x:Name="mainG">
+            <Grid.Resources>
+                <Storyboard x:Name="show" Completed="show_Completed">
+                    <DoubleAnimation 
+                    Storyboard.TargetName="loadingPopup"
+                    Storyboard.TargetProperty="Opacity"  
+                    From="1"
+                    To="1"
+                    Duration="0:0:0.2"/>
+                </Storyboard>
+                <Storyboard x:Name="show1" Completed="show1_Completed">
+                    <DoubleAnimation 
+                    Storyboard.TargetName="loadingPopup"
+                    Storyboard.TargetProperty="Opacity"  
+                    From="1"
+                    To="1"
+                    Duration="0:0:1"/>
+                </Storyboard>
+                <Storyboard x:Name="show2" Completed="show2_Completed">
+                    <DoubleAnimation 
+                    Storyboard.TargetName="loadingPopup"
+                    Storyboard.TargetProperty="Opacity"  
+                    From="1"
+                    To="1"
+                    Duration="0:0:0.5"/>
+                </Storyboard>
+            </Grid.Resources>
+            <TextBlock
+            Foreground="Green"
+            FontSize="35"
+            HorizontalAlignment="Center" 
+            Margin="10,73,10,0" 
+            TextWrapping="Wrap" 
+            TextAlignment="Center"
+            Text="Your Current balance is" 
+            VerticalAlignment="Top" 
+            Height="48" Width="380"/>
+            <AppBarButton 
+            RequestedTheme="Light"
+            Foreground="Green"
+            Icon="Add"
+            x:Name="addButton"
+            Label="Add Balance" 
+            Click="addButton_Click"
+            HorizontalAlignment="Center"
+            Margin="0,289,125,0" 
+            VerticalAlignment="Top" Width="95" Height="111">
+            </AppBarButton>
+            <AppBarButton 
+            RequestedTheme="Light"
+            Foreground="Green"
+            x:Name="minusButton"
+            Click="minusButton_Click"
+            Icon="Remove"
+            Label="Add Expenses" 
+            HorizontalAlignment="Center"
+            Margin="125,289,0,0" 
+            VerticalAlignment="Top" Height="123" Width="115"/>
+            <TextBlock 
+                Foreground="Green"
+                x:Name="balanceBlock"
+                FontSize="45"
+                HorizontalAlignment="Center" 
+                Margin="0,145,0,0" 
+                Height="Auto"
+                Width="Auto"
+                TextWrapping="Wrap" 
+                VerticalAlignment="Top" FontWeight="Bold"/>
+            <Popup x:Name="loadingPopup"
+                   HorizontalAlignment="Center" 
+                   VerticalAlignment="Center"
+                   Margin="0,0,200,0">
+                <Grid Background="Transparent" 
+                      HorizontalAlignment="Center"
+                      VerticalAlignment="Center">
+                    <ProgressBar 
+                        IsIndeterminate="True"
+                        Height="13" Margin="-94,-18,-132,35"/>
+                    <TextBlock
+                        x:Name="infoBlock"
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Height="159"
+                        Width="392"
+                        TextAlignment="Center"
+                        FontSize="20"
+                        TextWrapping="Wrap"
+                        Foreground="Black"
+                        Text="Loading Statistics..." Margin="-94,0,-132,-129"/>
+                </Grid>
+            </Popup>
+        </Grid>
+    </ScrollViewer>
+</Page>

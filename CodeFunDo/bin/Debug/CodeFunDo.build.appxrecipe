@@ -1,0 +1,1201 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASHISH</Machine>
+    <WindowsUser>Ashish</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5403fd14-9d07-4c3d-8a4f-183c2d1ce2af</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\CodeFunDo.exe">
+      <PackagePath>CodeFunDo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit.dll">
+      <PackagePath>WinRTXamlToolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\angular-highcharts-demo.html">
+      <PackagePath>angular-highcharts-demo.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\Untitled %282%29.png">
+      <PackagePath>Assets\Untitled %282%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\Untitled.png">
+      <PackagePath>Assets\Untitled.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Data\Balance.txt">
+      <PackagePath>Data\Balance.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Data\countries.txt">
+      <PackagePath>Data\countries.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Data\country.txt">
+      <PackagePath>Data\country.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Data\currencies.txt">
+      <PackagePath>Data\currencies.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Data\password.txt">
+      <PackagePath>Data\password.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-bootstrap-prettify.js">
+      <PackagePath>Scripts\angular-bootstrap-prettify.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-bootstrap-prettify.min.js">
+      <PackagePath>Scripts\angular-bootstrap-prettify.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-bootstrap.js">
+      <PackagePath>Scripts\angular-bootstrap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-bootstrap.min.js">
+      <PackagePath>Scripts\angular-bootstrap.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-cookies.js">
+      <PackagePath>Scripts\angular-cookies.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-cookies.min.js">
+      <PackagePath>Scripts\angular-cookies.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-highcharts.js">
+      <PackagePath>Scripts\angular-highcharts.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-loader.js">
+      <PackagePath>Scripts\angular-loader.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-loader.min.js">
+      <PackagePath>Scripts\angular-loader.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-mocks.js">
+      <PackagePath>Scripts\angular-mocks.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-resource.js">
+      <PackagePath>Scripts\angular-resource.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-resource.min.js">
+      <PackagePath>Scripts\angular-resource.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-sanitize.js">
+      <PackagePath>Scripts\angular-sanitize.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-sanitize.min.js">
+      <PackagePath>Scripts\angular-sanitize.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular-scenario.js">
+      <PackagePath>Scripts\angular-scenario.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular.js">
+      <PackagePath>Scripts\angular.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\angular.min.js">
+      <PackagePath>Scripts\angular.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\adapters\mootools-adapter.js">
+      <PackagePath>Scripts\highcharts\adapters\mootools-adapter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\adapters\mootools-adapter.src.js">
+      <PackagePath>Scripts\highcharts\adapters\mootools-adapter.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\adapters\prototype-adapter.js">
+      <PackagePath>Scripts\highcharts\adapters\prototype-adapter.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\adapters\prototype-adapter.src.js">
+      <PackagePath>Scripts\highcharts\adapters\prototype-adapter.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\adapters\standalone-framework.js">
+      <PackagePath>Scripts\highcharts\adapters\standalone-framework.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\adapters\standalone-framework.src.js">
+      <PackagePath>Scripts\highcharts\adapters\standalone-framework.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\highcharts-more.js">
+      <PackagePath>Scripts\highcharts\highcharts-more.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\highcharts-more.src.js">
+      <PackagePath>Scripts\highcharts\highcharts-more.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\highcharts.js">
+      <PackagePath>Scripts\highcharts\highcharts.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\highcharts.src.js">
+      <PackagePath>Scripts\highcharts\highcharts.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\highstock.js">
+      <PackagePath>Scripts\highcharts\highstock.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\highstock.src.js">
+      <PackagePath>Scripts\highcharts\highstock.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\annotations.js">
+      <PackagePath>Scripts\highcharts\modules\annotations.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\annotations.src.js">
+      <PackagePath>Scripts\highcharts\modules\annotations.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\canvas-tools.js">
+      <PackagePath>Scripts\highcharts\modules\canvas-tools.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\canvas-tools.src.js">
+      <PackagePath>Scripts\highcharts\modules\canvas-tools.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\data.js">
+      <PackagePath>Scripts\highcharts\modules\data.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\data.src.js">
+      <PackagePath>Scripts\highcharts\modules\data.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\exporting.js">
+      <PackagePath>Scripts\highcharts\modules\exporting.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\exporting.src.js">
+      <PackagePath>Scripts\highcharts\modules\exporting.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\funnel.js">
+      <PackagePath>Scripts\highcharts\modules\funnel.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\funnel.src.js">
+      <PackagePath>Scripts\highcharts\modules\funnel.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\heatmap.js">
+      <PackagePath>Scripts\highcharts\modules\heatmap.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\heatmap.src.js">
+      <PackagePath>Scripts\highcharts\modules\heatmap.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\map.js">
+      <PackagePath>Scripts\highcharts\modules\map.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\modules\map.src.js">
+      <PackagePath>Scripts\highcharts\modules\map.src.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\themes\dark-blue.js">
+      <PackagePath>Scripts\highcharts\themes\dark-blue.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\themes\dark-green.js">
+      <PackagePath>Scripts\highcharts\themes\dark-green.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\themes\gray.js">
+      <PackagePath>Scripts\highcharts\themes\gray.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\themes\grid.js">
+      <PackagePath>Scripts\highcharts\themes\grid.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\highcharts\themes\skies.js">
+      <PackagePath>Scripts\highcharts\themes\skies.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_af-na.js">
+      <PackagePath>Scripts\i18n\angular-locale_af-na.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_af-za.js">
+      <PackagePath>Scripts\i18n\angular-locale_af-za.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_af.js">
+      <PackagePath>Scripts\i18n\angular-locale_af.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_am-et.js">
+      <PackagePath>Scripts\i18n\angular-locale_am-et.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_am.js">
+      <PackagePath>Scripts\i18n\angular-locale_am.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-001.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-001.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-ae.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-ae.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-bh.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-bh.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-dz.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-dz.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-eg.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-eg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-iq.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-iq.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-jo.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-jo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-kw.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-kw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-lb.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-lb.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-ly.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-ly.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-ma.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-ma.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-om.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-om.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-qa.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-qa.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-sa.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-sa.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-sd.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-sd.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-sy.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-sy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-tn.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-tn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar-ye.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar-ye.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ar.js">
+      <PackagePath>Scripts\i18n\angular-locale_ar.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_bg-bg.js">
+      <PackagePath>Scripts\i18n\angular-locale_bg-bg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_bg.js">
+      <PackagePath>Scripts\i18n\angular-locale_bg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_bn-bd.js">
+      <PackagePath>Scripts\i18n\angular-locale_bn-bd.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_bn-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_bn-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_bn.js">
+      <PackagePath>Scripts\i18n\angular-locale_bn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ca-ad.js">
+      <PackagePath>Scripts\i18n\angular-locale_ca-ad.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ca-es.js">
+      <PackagePath>Scripts\i18n\angular-locale_ca-es.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ca.js">
+      <PackagePath>Scripts\i18n\angular-locale_ca.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_chr.js">
+      <PackagePath>Scripts\i18n\angular-locale_chr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_cs-cz.js">
+      <PackagePath>Scripts\i18n\angular-locale_cs-cz.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_cs.js">
+      <PackagePath>Scripts\i18n\angular-locale_cs.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_cy.js">
+      <PackagePath>Scripts\i18n\angular-locale_cy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_da-dk.js">
+      <PackagePath>Scripts\i18n\angular-locale_da-dk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_da.js">
+      <PackagePath>Scripts\i18n\angular-locale_da.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_de-at.js">
+      <PackagePath>Scripts\i18n\angular-locale_de-at.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_de-be.js">
+      <PackagePath>Scripts\i18n\angular-locale_de-be.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_de-ch.js">
+      <PackagePath>Scripts\i18n\angular-locale_de-ch.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_de-de.js">
+      <PackagePath>Scripts\i18n\angular-locale_de-de.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_de-li.js">
+      <PackagePath>Scripts\i18n\angular-locale_de-li.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_de-lu.js">
+      <PackagePath>Scripts\i18n\angular-locale_de-lu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_de.js">
+      <PackagePath>Scripts\i18n\angular-locale_de.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_el-cy.js">
+      <PackagePath>Scripts\i18n\angular-locale_el-cy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_el-gr.js">
+      <PackagePath>Scripts\i18n\angular-locale_el-gr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_el-polyton.js">
+      <PackagePath>Scripts\i18n\angular-locale_el-polyton.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_el.js">
+      <PackagePath>Scripts\i18n\angular-locale_el.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-as.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-as.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-au.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-au.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-bb.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-bb.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-be.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-be.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-bm.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-bm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-bw.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-bw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-bz.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-bz.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-ca.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-ca.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-dsrt-us.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-dsrt-us.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-dsrt.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-dsrt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-fm.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-fm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-gb.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-gb.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-gu.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-gu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-gy.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-gy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-hk.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-hk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-ie.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-ie.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-iso.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-iso.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-jm.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-jm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-mh.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-mh.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-mp.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-mp.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-mt.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-mt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-mu.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-mu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-na.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-na.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-nz.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-nz.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-ph.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-ph.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-pk.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-pk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-pr.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-pr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-pw.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-pw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-sg.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-sg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-tc.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-tc.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-tt.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-tt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-um.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-um.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-us.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-us.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-vg.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-vg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-vi.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-vi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-za.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-za.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-zw.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-zw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en-zz.js">
+      <PackagePath>Scripts\i18n\angular-locale_en-zz.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_en.js">
+      <PackagePath>Scripts\i18n\angular-locale_en.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-419.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-419.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-ar.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-ar.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-bo.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-bo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-cl.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-cl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-co.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-co.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-cr.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-cr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-do.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-do.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-ea.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-ea.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-ec.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-ec.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-es.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-es.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-gq.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-gq.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-gt.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-gt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-hn.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-hn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-ic.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-ic.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-mx.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-mx.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-ni.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-ni.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-pa.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-pa.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-pe.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-pe.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-pr.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-pr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-py.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-py.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-sv.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-sv.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-us.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-us.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-uy.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-uy.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es-ve.js">
+      <PackagePath>Scripts\i18n\angular-locale_es-ve.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_es.js">
+      <PackagePath>Scripts\i18n\angular-locale_es.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_et-ee.js">
+      <PackagePath>Scripts\i18n\angular-locale_et-ee.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_et.js">
+      <PackagePath>Scripts\i18n\angular-locale_et.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_eu-es.js">
+      <PackagePath>Scripts\i18n\angular-locale_eu-es.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_eu.js">
+      <PackagePath>Scripts\i18n\angular-locale_eu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fa-af.js">
+      <PackagePath>Scripts\i18n\angular-locale_fa-af.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fa-ir.js">
+      <PackagePath>Scripts\i18n\angular-locale_fa-ir.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fa.js">
+      <PackagePath>Scripts\i18n\angular-locale_fa.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fi-fi.js">
+      <PackagePath>Scripts\i18n\angular-locale_fi-fi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fi.js">
+      <PackagePath>Scripts\i18n\angular-locale_fi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fil-ph.js">
+      <PackagePath>Scripts\i18n\angular-locale_fil-ph.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fil.js">
+      <PackagePath>Scripts\i18n\angular-locale_fil.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-be.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-be.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-bf.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-bf.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-bi.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-bi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-bj.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-bj.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-bl.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-bl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-ca.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-ca.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-cd.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-cd.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-cf.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-cf.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-cg.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-cg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-ch.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-ch.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-ci.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-ci.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-cm.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-cm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-dj.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-dj.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-fr.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-fr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-ga.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-ga.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-gf.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-gf.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-gn.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-gn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-gp.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-gp.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-gq.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-gq.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-km.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-km.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-lu.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-lu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-mc.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-mc.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-mf.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-mf.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-mg.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-mg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-ml.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-ml.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-mq.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-mq.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-ne.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-ne.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-re.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-re.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-rw.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-rw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-sn.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-sn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-td.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-td.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-tg.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-tg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr-yt.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr-yt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_fr.js">
+      <PackagePath>Scripts\i18n\angular-locale_fr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_gl-es.js">
+      <PackagePath>Scripts\i18n\angular-locale_gl-es.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_gl.js">
+      <PackagePath>Scripts\i18n\angular-locale_gl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_gsw-ch.js">
+      <PackagePath>Scripts\i18n\angular-locale_gsw-ch.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_gsw.js">
+      <PackagePath>Scripts\i18n\angular-locale_gsw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_gu-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_gu-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_gu.js">
+      <PackagePath>Scripts\i18n\angular-locale_gu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_haw.js">
+      <PackagePath>Scripts\i18n\angular-locale_haw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_he-il.js">
+      <PackagePath>Scripts\i18n\angular-locale_he-il.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_he.js">
+      <PackagePath>Scripts\i18n\angular-locale_he.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_hi-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_hi-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_hi.js">
+      <PackagePath>Scripts\i18n\angular-locale_hi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_hr-hr.js">
+      <PackagePath>Scripts\i18n\angular-locale_hr-hr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_hr.js">
+      <PackagePath>Scripts\i18n\angular-locale_hr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_hu-hu.js">
+      <PackagePath>Scripts\i18n\angular-locale_hu-hu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_hu.js">
+      <PackagePath>Scripts\i18n\angular-locale_hu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_id-id.js">
+      <PackagePath>Scripts\i18n\angular-locale_id-id.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_id.js">
+      <PackagePath>Scripts\i18n\angular-locale_id.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_in.js">
+      <PackagePath>Scripts\i18n\angular-locale_in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_is-is.js">
+      <PackagePath>Scripts\i18n\angular-locale_is-is.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_is.js">
+      <PackagePath>Scripts\i18n\angular-locale_is.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_it-ch.js">
+      <PackagePath>Scripts\i18n\angular-locale_it-ch.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_it-it.js">
+      <PackagePath>Scripts\i18n\angular-locale_it-it.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_it-sm.js">
+      <PackagePath>Scripts\i18n\angular-locale_it-sm.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_it.js">
+      <PackagePath>Scripts\i18n\angular-locale_it.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_iw.js">
+      <PackagePath>Scripts\i18n\angular-locale_iw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ja-jp.js">
+      <PackagePath>Scripts\i18n\angular-locale_ja-jp.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ja.js">
+      <PackagePath>Scripts\i18n\angular-locale_ja.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_kn-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_kn-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_kn.js">
+      <PackagePath>Scripts\i18n\angular-locale_kn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ko-kr.js">
+      <PackagePath>Scripts\i18n\angular-locale_ko-kr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ko.js">
+      <PackagePath>Scripts\i18n\angular-locale_ko.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ln-cd.js">
+      <PackagePath>Scripts\i18n\angular-locale_ln-cd.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ln-cg.js">
+      <PackagePath>Scripts\i18n\angular-locale_ln-cg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ln.js">
+      <PackagePath>Scripts\i18n\angular-locale_ln.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_lt-lt.js">
+      <PackagePath>Scripts\i18n\angular-locale_lt-lt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_lt.js">
+      <PackagePath>Scripts\i18n\angular-locale_lt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_lv-lv.js">
+      <PackagePath>Scripts\i18n\angular-locale_lv-lv.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_lv.js">
+      <PackagePath>Scripts\i18n\angular-locale_lv.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ml-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_ml-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ml.js">
+      <PackagePath>Scripts\i18n\angular-locale_ml.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_mo.js">
+      <PackagePath>Scripts\i18n\angular-locale_mo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_mr-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_mr-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_mr.js">
+      <PackagePath>Scripts\i18n\angular-locale_mr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ms-bn.js">
+      <PackagePath>Scripts\i18n\angular-locale_ms-bn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ms-my.js">
+      <PackagePath>Scripts\i18n\angular-locale_ms-my.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ms.js">
+      <PackagePath>Scripts\i18n\angular-locale_ms.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_mt-mt.js">
+      <PackagePath>Scripts\i18n\angular-locale_mt-mt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_mt.js">
+      <PackagePath>Scripts\i18n\angular-locale_mt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_nl-aw.js">
+      <PackagePath>Scripts\i18n\angular-locale_nl-aw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_nl-be.js">
+      <PackagePath>Scripts\i18n\angular-locale_nl-be.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_nl-cw.js">
+      <PackagePath>Scripts\i18n\angular-locale_nl-cw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_nl-nl.js">
+      <PackagePath>Scripts\i18n\angular-locale_nl-nl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_nl-sx.js">
+      <PackagePath>Scripts\i18n\angular-locale_nl-sx.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_nl.js">
+      <PackagePath>Scripts\i18n\angular-locale_nl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_no.js">
+      <PackagePath>Scripts\i18n\angular-locale_no.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_or-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_or-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_or.js">
+      <PackagePath>Scripts\i18n\angular-locale_or.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pl-pl.js">
+      <PackagePath>Scripts\i18n\angular-locale_pl-pl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pl.js">
+      <PackagePath>Scripts\i18n\angular-locale_pl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pt-ao.js">
+      <PackagePath>Scripts\i18n\angular-locale_pt-ao.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pt-br.js">
+      <PackagePath>Scripts\i18n\angular-locale_pt-br.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pt-gw.js">
+      <PackagePath>Scripts\i18n\angular-locale_pt-gw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pt-mz.js">
+      <PackagePath>Scripts\i18n\angular-locale_pt-mz.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pt-pt.js">
+      <PackagePath>Scripts\i18n\angular-locale_pt-pt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pt-st.js">
+      <PackagePath>Scripts\i18n\angular-locale_pt-st.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_pt.js">
+      <PackagePath>Scripts\i18n\angular-locale_pt.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ro-md.js">
+      <PackagePath>Scripts\i18n\angular-locale_ro-md.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ro-ro.js">
+      <PackagePath>Scripts\i18n\angular-locale_ro-ro.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ro.js">
+      <PackagePath>Scripts\i18n\angular-locale_ro.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ru-md.js">
+      <PackagePath>Scripts\i18n\angular-locale_ru-md.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ru-ru.js">
+      <PackagePath>Scripts\i18n\angular-locale_ru-ru.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ru-ua.js">
+      <PackagePath>Scripts\i18n\angular-locale_ru-ua.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ru.js">
+      <PackagePath>Scripts\i18n\angular-locale_ru.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sk-sk.js">
+      <PackagePath>Scripts\i18n\angular-locale_sk-sk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sk.js">
+      <PackagePath>Scripts\i18n\angular-locale_sk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sl-si.js">
+      <PackagePath>Scripts\i18n\angular-locale_sl-si.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sl.js">
+      <PackagePath>Scripts\i18n\angular-locale_sl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sq-al.js">
+      <PackagePath>Scripts\i18n\angular-locale_sq-al.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sq.js">
+      <PackagePath>Scripts\i18n\angular-locale_sq.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-cyrl-ba.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-cyrl-ba.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-cyrl-me.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-cyrl-me.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-cyrl-rs.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-cyrl-rs.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-cyrl.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-cyrl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-latn-ba.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-latn-ba.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-latn-me.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-latn-me.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-latn-rs.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-latn-rs.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-latn.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-latn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr-rs.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr-rs.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sr.js">
+      <PackagePath>Scripts\i18n\angular-locale_sr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sv-fi.js">
+      <PackagePath>Scripts\i18n\angular-locale_sv-fi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sv-se.js">
+      <PackagePath>Scripts\i18n\angular-locale_sv-se.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sv.js">
+      <PackagePath>Scripts\i18n\angular-locale_sv.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sw-ke.js">
+      <PackagePath>Scripts\i18n\angular-locale_sw-ke.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sw-tz.js">
+      <PackagePath>Scripts\i18n\angular-locale_sw-tz.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_sw.js">
+      <PackagePath>Scripts\i18n\angular-locale_sw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ta-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_ta-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ta-lk.js">
+      <PackagePath>Scripts\i18n\angular-locale_ta-lk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ta.js">
+      <PackagePath>Scripts\i18n\angular-locale_ta.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_te-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_te-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_te.js">
+      <PackagePath>Scripts\i18n\angular-locale_te.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_th-th.js">
+      <PackagePath>Scripts\i18n\angular-locale_th-th.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_th.js">
+      <PackagePath>Scripts\i18n\angular-locale_th.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_tl-ph.js">
+      <PackagePath>Scripts\i18n\angular-locale_tl-ph.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_tl.js">
+      <PackagePath>Scripts\i18n\angular-locale_tl.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_tr-tr.js">
+      <PackagePath>Scripts\i18n\angular-locale_tr-tr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_tr.js">
+      <PackagePath>Scripts\i18n\angular-locale_tr.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_uk-ua.js">
+      <PackagePath>Scripts\i18n\angular-locale_uk-ua.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_uk.js">
+      <PackagePath>Scripts\i18n\angular-locale_uk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ur-in.js">
+      <PackagePath>Scripts\i18n\angular-locale_ur-in.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ur-pk.js">
+      <PackagePath>Scripts\i18n\angular-locale_ur-pk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_ur.js">
+      <PackagePath>Scripts\i18n\angular-locale_ur.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_vi-vn.js">
+      <PackagePath>Scripts\i18n\angular-locale_vi-vn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_vi.js">
+      <PackagePath>Scripts\i18n\angular-locale_vi.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-cn.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-cn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hans-cn.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hans-cn.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hans-hk.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hans-hk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hans-mo.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hans-mo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hans-sg.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hans-sg.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hans.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hans.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hant-hk.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hant-hk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hant-mo.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hant-mo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hant-tw.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hant-tw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hant.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hant.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-hk.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-hk.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh-tw.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh-tw.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zh.js">
+      <PackagePath>Scripts\i18n\angular-locale_zh.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zu-za.js">
+      <PackagePath>Scripts\i18n\angular-locale_zu-za.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\i18n\angular-locale_zu.js">
+      <PackagePath>Scripts\i18n\angular-locale_zu.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\jquery-2.0.3.intellisense.js">
+      <PackagePath>Scripts\jquery-2.0.3.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\jquery-2.0.3.js">
+      <PackagePath>Scripts\jquery-2.0.3.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\Scripts\jquery-2.0.3.min.js">
+      <PackagePath>Scripts\jquery-2.0.3.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\changePage.xbf">
+      <PackagePath>changePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\confirmPass.xbf">
+      <PackagePath>confirmPass.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\defaultPasswordPage.xbf">
+      <PackagePath>defaultPasswordPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\detailsPage.xbf">
+      <PackagePath>detailsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\passwordPage.xbf">
+      <PackagePath>passwordPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\setPassword.xbf">
+      <PackagePath>setPassword.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\settings.xbf">
+      <PackagePath>settings.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\CodeFunDo.xr.xml">
+      <PackagePath>CodeFunDo.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\WinRTXamlToolkit.xr.xml">
+      <PackagePath>WinRTXamlToolkit\WinRTXamlToolkit.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AlternativeFrame\AlternativeFrame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AnimatingContainer\AnimatingContainer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\AutoCompleteTextBox\AutoCompleteTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CameraCaptureControl\CameraCaptureControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingImageControl\CascadingImageControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CascadingTextBlock\CascadingTextBlock.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ColorPicker\ColorPicker.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CountdownControl\CountdownControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\CustomGridSplitter\CustomGridSplitter.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\DelayedLoadControl\DelayedLoadControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FocusVisualizer\FocusVisualizer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\FxContentControl\FxContentControl.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageButton\ImageButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ImageToggleButton\ImageToggleButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\InputDialog\InputDialog.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ListItemButton\ListItemButton.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\NumericUpDown\NumericUpDown.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\ToolWindow\ToolWindow.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\TreeView\TreeView.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewItem.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewMouse.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\TreeView\TreeViewTouch.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkPasswordBox\WatermarkPasswordBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf">
+      <PackagePath>WinRTXamlToolkit\Controls\WatermarkTextBox\WatermarkTextBox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\packages\WinRTXamlToolkit.WindowsPhone.1.7.9.0\lib\wpa\WinRTXamlToolkit\Themes\Generic.xbf">
+      <PackagePath>WinRTXamlToolkit\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

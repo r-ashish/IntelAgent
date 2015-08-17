@@ -1,0 +1,43 @@
+﻿<Page
+    x:Class="IntelAgent.confirmPass"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:IntelAgent"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <ScrollViewer>
+    <Grid HorizontalAlignment="Stretch"
+          VerticalAlignment="Stretch" Background="#FF1F1F1F">
+        <PasswordBox 
+            RequestedTheme="Dark"
+    		x:Name="checkPassword"
+    		Header="Your Password" 
+    		Margin="20,90,42,0"/>
+        <TextBlock 
+    		HorizontalAlignment="Left" 
+    		Margin="20,30,0,0" 
+    		TextWrapping="Wrap"
+    		FontSize="30"
+    		Text="Confirm Password" 
+    		VerticalAlignment="Top" 
+    		Height="35" Width="273"/>
+        <Button x:ConnectionId='1' 
+                                
+            Content="Turn Off"
+            HorizontalAlignment="Left" 
+            Margin="30,291,0,30" 
+            VerticalAlignment="Bottom"
+            Width="157"/>
+        <Button x:ConnectionId='2' 
+                                  
+            Content="Cancel" 
+            HorizontalAlignment="Right" 
+            Margin="0,291,30,30" 
+            VerticalAlignment="Bottom" 
+            Width="157"/>
+    </Grid>
+    </ScrollViewer>
+</Page>
+

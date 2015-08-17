@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\IntelAgent_1.1.0.1_Bundle\IntelAgent_1.1.0.1_AnyCPU.appx
+SymbolPackage=C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\AppPackages\IntelAgent_1.1.0.1_Test\IntelAgent_1.1.0.1_AnyCPU.appxsym

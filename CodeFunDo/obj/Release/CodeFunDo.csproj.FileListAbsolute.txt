@@ -1,0 +1,420 @@
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\App.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\confirmPass.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\detailsPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\MainPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\passwordPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\setPassword.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\settings.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\resources.pri
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\AppxManifest.xml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.build.appxrecipe
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\App.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\App.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\settings.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\settings.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\App.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\App.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\XamlSaveStateFile.xml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\MainPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\setPassword.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\settings.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\MainPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\setPassword.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\settings.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml.intermediate
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles.intermediate
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles.intermediate
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles.intermediate
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt.intermediate
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\ProjectArchitectures.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\defaultPasswordPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\Data\Balance.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\Data\countries.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\Data\country.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\Data\password.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\Data\currencies.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.dll
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.pri
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.pri.xml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csprojResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\changePage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\changePage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\changePage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\changePage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\changePage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\stats.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\stats.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\stats.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\stats.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\stats.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\ResetPasswordPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\Balance.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\countries.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\country.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\currencies.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\password.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\App.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\changePage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\confirmPass.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\defaultPasswordPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\detailsPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\MainPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\passwordPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\ResetPasswordPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\setPassword.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\settings.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\stats.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.xr.xml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.exe
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.pdb
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\resources.pri
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\AppxManifest.xml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.build.appxrecipe
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.dll
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.pri
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csprojResolveAssemblyReference.cache
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.g.i.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.xaml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.xbf
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\XamlSaveStateFile.xml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.exe
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.pdb
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csproj.GenerateResource.Cache
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt.intermediate
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.pri.xml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\Yuvraj Singh\Desktop\CodeFunDo\CodeFunDo\obj\Release\ProjectArchitectures.txt
+I:\CodeFunDo\CodeFunDo\bin\Release\Data\Balance.txt
+I:\CodeFunDo\CodeFunDo\bin\Release\Data\countries.txt
+I:\CodeFunDo\CodeFunDo\bin\Release\Data\country.txt
+I:\CodeFunDo\CodeFunDo\bin\Release\Data\currencies.txt
+I:\CodeFunDo\CodeFunDo\bin\Release\Data\password.txt
+I:\CodeFunDo\CodeFunDo\bin\Release\App.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\changePage.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\confirmPass.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\defaultPasswordPage.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\detailsPage.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\MainPage.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\passwordPage.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\ResetPasswordPage.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\setPassword.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\settings.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\stats.xbf
+I:\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.xr.xml
+I:\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.exe
+I:\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.pdb
+I:\CodeFunDo\CodeFunDo\bin\Release\resources.pri
+I:\CodeFunDo\CodeFunDo\bin\Release\AppxManifest.xml
+I:\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.build.appxrecipe
+I:\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.dll
+I:\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.dll
+I:\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.pri
+I:\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+I:\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csprojResolveAssemblyReference.cache
+I:\CodeFunDo\CodeFunDo\obj\Release\App.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\App.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\changePage.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\changePage.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\settings.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\settings.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\stats.g.i.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\stats.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\XamlTypeInfo.g.cs
+I:\CodeFunDo\CodeFunDo\obj\Release\App.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\changePage.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\MainPage.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\setPassword.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\settings.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\stats.xaml
+I:\CodeFunDo\CodeFunDo\obj\Release\App.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\changePage.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\MainPage.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\setPassword.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\settings.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\stats.xbf
+I:\CodeFunDo\CodeFunDo\obj\Release\XamlSaveStateFile.xml
+I:\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.exe
+I:\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.pdb
+I:\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+I:\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csproj.GenerateResource.Cache
+I:\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+I:\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+I:\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml
+I:\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml.intermediate
+I:\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles
+I:\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles.intermediate
+I:\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles
+I:\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles.intermediate
+I:\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles
+I:\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles.intermediate
+I:\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt
+I:\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt.intermediate
+I:\CodeFunDo\CodeFunDo\obj\Release\MultipleQualifiersPerDimensionFound.txt
+I:\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.pri.xml
+I:\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+I:\CodeFunDo\CodeFunDo\obj\Release\ProjectArchitectures.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\Balance.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\countries.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\country.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\currencies.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\Data\password.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\App.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\changePage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\confirmPass.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\defaultPasswordPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\detailsPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\MainPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\passwordPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\ResetPasswordPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\setPassword.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\settings.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\stats.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.xr.xml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.exe
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.pdb
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\resources.pri
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\AppxManifest.xml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\CodeFunDo.build.appxrecipe
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.dll
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.dll
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.pri
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csprojResolveAssemblyReference.cache
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\App.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\changePage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\confirmPass.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\defaultPasswordPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\detailsPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\MainPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\passwordPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\ResetPasswordPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\setPassword.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\settings.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\stats.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\XamlSaveStateFile.xml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.exe
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.pdb
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\en-US\WinRTXamlToolkit.Controls.DataVisualization.Properties.Resources.resw
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\CodeFunDo.csproj.GenerateResource.Cache
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\qualifiers.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\priconfig.xml.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\layout.resfiles.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\resources.resfiles.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\pri.resfiles.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\qualifiers.txt.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.pri.xml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization.pri.xml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\ProjectArchitectures.txt
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\listDetailsPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\profileOptionPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\aboutPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\aboutPage.g.i.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\aboutPage.g.cs
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\aboutPage.xaml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\aboutPage.xbf
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\bin\Release\Microsoft.Live.dll
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\layout.resfiles.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\Resources.resfiles.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\pri.resfiles.intermediate
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml
+C:\Users\Ashish\Desktop\CodeFunDo\CodeFunDo\obj\Release\WinRTXamlToolkit.Controls.DataVisualization\priconfig.xml.intermediate
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\aboutPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\listDetailsPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\profileOptionPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\Microsoft.Live.dll
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\aboutPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\aboutPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.g.i.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.g.cs
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\aboutPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.xaml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\aboutPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\listDetailsPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\profileOptionPage.xbf
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\IntelAgent.xr.xml
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\IntelAgent.exe
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\bin\Release\IntelAgent.pdb
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\IntelAgent.exe
+C:\Users\Ashish\Desktop\MS-VS\VS\CodeFunDo\CodeFunDo\obj\Release\IntelAgent.pdb

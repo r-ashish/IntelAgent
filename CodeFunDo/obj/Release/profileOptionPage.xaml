@@ -1,0 +1,55 @@
+﻿<Page
+    x:Class="IntelAgent.profileOptionPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:IntelAgent"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFF9F9F9">
+
+    <Grid>
+        <AppBarButton 
+            Foreground="Green"
+            HorizontalAlignment="Left" 
+            Icon="Add"  
+            Margin="45,168,0,0" VerticalAlignment="Top"/>
+        <TextBlock 
+            Foreground="Green"
+            HorizontalAlignment="Left"
+            Margin="136,200,0,0" 
+            TextWrapping="Wrap" 
+            FontSize="23"
+            Text="Add Normal Profile" 
+            VerticalAlignment="Top" Height="38" Width="213"/>
+        
+        <AppBarButton 
+            Foreground="Green"
+            HorizontalAlignment="Left" 
+            Icon="Add"  
+            Margin="45,248,0,0" VerticalAlignment="Top"/>
+        <TextBlock 
+            Foreground="Green"
+            HorizontalAlignment="Left"
+            Margin="136,280,0,0" 
+            TextWrapping="Wrap" 
+            FontSize="23"
+            Text="Add Family Profile" 
+            VerticalAlignment="Top" Height="38" Width="213"/>
+
+        <AppBarButton 
+            Foreground="Green"
+            HorizontalAlignment="Left" 
+            Icon="Add"  
+            Margin="45,328,0,0" VerticalAlignment="Top"/>
+        <TextBlock 
+            Foreground="Green"
+            HorizontalAlignment="Left"
+            Margin="136,360,0,0" 
+            TextWrapping="Wrap" 
+            FontSize="23"
+            Text="Add Student Profile" 
+            VerticalAlignment="Top" Height="38" Width="213"/>
+    </Grid>
+</Page>
+

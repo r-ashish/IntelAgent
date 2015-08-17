@@ -1,0 +1,6 @@
+﻿Food;100
+Entertainment;240
+Others;147
+Travel;39
+Daily Needs;290
+Clothes;350
